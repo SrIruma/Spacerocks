@@ -1,5 +1,3 @@
-# Spacerocks 🌌💥
-
 ## Game Description
 
 Dive into the timeless world of Spacerocks, where you'll take on the role of a fearless spaceship pilot navigating the perilous depths of space. this iconic arcade game has captured the hearts of players for generations.
