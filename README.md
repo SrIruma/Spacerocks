@@ -26,4 +26,4 @@ Spacerocks is a true classic that set the standard for arcade gaming. It's a gam
 
 ## License
 
-This project is licensed under the [Spacerocks Dual License](LICENSE.md). Please see the [LICENSE.md](LICENSE.md) file for more details.
+This project is licensed under the [LignityLabs Dual License](license.md). Please see the [LICENSE.md](license.md) file for more details.
