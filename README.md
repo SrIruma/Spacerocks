@@ -20,8 +20,10 @@ Spacerocks is a true classic that set the standard for arcade gaming. It's a gam
 
 👾 **Hostile UFOs**: Face off against menacing UFOs that appear on the screen, firing projectiles in your direction. Can you outmaneuver their attacks and take them out for bonus points?
 
-[Check out the license](https://github.com/SrIruma/Spacerocks/main/license.md)
-
 🎶 **Iconic Soundtrack**: Immerse yourself in the game with its signature electronic sound effects and memorable blips and bleeps. The sound of your spaceship's thrusters and laser shots is etched into gaming history.
 
 🚀 **Multiplayer Mayhem**: Take on opponents in thrilling multiplayer battles. Team up with friends or go head-to-head in competitive matches. Who will emerge as the ultimate space ace?
+
+## License
+
+This project is licensed under the [Spacerocks Dual License](LICENSE.md). Please see the [LICENSE.md](LICENSE.md) file for more details.
