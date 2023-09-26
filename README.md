@@ -14,7 +14,7 @@ Spacerocks is a true classic that set the standard for arcade gaming. It's a gam
 
 🎯 **High Score Quest**: Compete for the high score in your local arcade or against friends. Asteroids challenges you to become the ultimate space ace, mastering the art of precision shooting.
 
-### On the Next Update:
+### On Future Update:
 
 👾 **Hostile UFOs**: Face off against menacing UFOs that appear on the screen, firing projectiles in your direction. Can you outmaneuver their attacks and take them out for bonus points?
 
